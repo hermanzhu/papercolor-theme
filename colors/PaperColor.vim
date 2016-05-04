@@ -256,9 +256,9 @@ if s:is_dark " DARK VARIANT
   let s:wine  = ['#af8787', '138']
 
   " Basics:
-  let s:foreground   = ['#d0d0d0', '251']
-  let s:background   = ['#262626', '234']
-  let s:selection    = ['#3a3a3a', '236']
+  let s:foreground   = ['#eaeaea', '251']
+  let s:background   = ['#2e2e2d', '234']
+  let s:selection    = ['#4e4e4e', '236']
   let s:nontext      = ['#444444', '237']
   let s:window       = ['#3a3a3a', '236']
   let s:divider      = ['#5f8787', '66']
